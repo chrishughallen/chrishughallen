@@ -2,7 +2,7 @@
 
 I'm Chris, an American web developer based in Paris.
 
-I spend most of my time at Bergamotte working with vanilla JS, SCSS, and ERB files.
+I'm the front end developer at [Bergamotte](https://www.bergamotte.com) and I spend most of my time working with Javascript, scss, and Ruby.
 
 I am currently learning React outside of my day job, and you can see a couple of my recent projects here.
 
