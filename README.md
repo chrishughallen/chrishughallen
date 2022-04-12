@@ -12,6 +12,8 @@ I am currently learning React outside of my day job, and you can see a couple of
 
 [Hex-a-guesser](https://hex-a-guess.vercel.app/) - How good are you with hexidecimals?
 
+[lorem-blog-posts](https://react-blog-posts.vercel.app/) - A basic fetch application that allows you to view and favorite lorem ipsum blog posts. Still in progress!
+
 You can also take a look at my personal site [here](https://chrishughallen.github.io/app/index.html), though it is still in progress (forever).
 
 Outside of coding I like to Travel, make music (check out my [SoundCloud](https://soundcloud.com/mr-cadwalter)), and cook/eat good food.
