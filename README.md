@@ -4,7 +4,9 @@ I'm Chris, an American web developer based in Paris.
 
 I'm the front end developer at [Bergamotte](https://www.bergamotte.com) and I spend most of my time working with Javascript, scss, and Ruby.
 
-I am currently learning React outside of my day job, and you can see a couple of my recent projects here.
+I am currently learning React outside of my day job. You can see some of my recent projects here.
+
+[Life Advice](https://react-advice-phi.vercel.app/) - Click a button and get some sound advice.
 
 [Todo List ](https://react-todo-list-iota.vercel.app/) - Original, I know.
 
