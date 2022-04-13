@@ -8,7 +8,7 @@ I am currently learning React outside of my day job.
 
 My Current React Project
 
-[lorem-blog-posts](https://react-blog-posts.vercel.app/) - A basic fetch application that using the JSONplaceholder API. Using localStorage you can favorite/unfavorite blog posts, as well as follow/unfollow users. I am currently working on implementing all the back end features before any major styling, so don't expect anything beautiful, but it's functional!
+[lorem-blog-posts](https://react-blog-posts.vercel.app/) - A basic fetch application that uses the JSONplaceholder API. Using localStorage you can favorite/unfavorite blog posts, as well as follow/unfollow users. I am currently working on implementing all the functionality before any major styling, so don't expect anything beautiful quite yet 😉
 
 Finished React Projects
 
